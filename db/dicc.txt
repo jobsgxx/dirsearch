@@ -9728,3 +9728,4 @@ zone-h.php
 ~web
 ~www
 ~xfs
+niis/dict/
